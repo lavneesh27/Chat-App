@@ -67,7 +67,8 @@ textarea {
   margin-right: auto;
   margin-bottom: 12px;
   margin-top: 12px;
-  width: 780px;
+  width: 85vw;
+  max-width: 750px;
   border: none;
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
