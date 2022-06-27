@@ -54,7 +54,7 @@ section.chat_section {
   margin-left: 10px;
 }
 .message_area {
-  height: 500px;
+  height: 400px;
   padding: 16px;
   display: flex;
   flex-direction: column;
