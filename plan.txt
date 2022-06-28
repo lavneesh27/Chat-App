@@ -1,6 +1,0 @@
-To fix:
-    1. Make mobile friendly.
-    2. fix Text area size problem on small devices.
-    3. fix navbar shadow problem.
-    4. Add send button
-    
