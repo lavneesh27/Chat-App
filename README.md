@@ -1,5 +1,5 @@
 # ChatX
-Realtime chat app using **socket.io** and **vanilla JavaScript**
+Realtime chat app using **socket.io** and **JavaScript**
 
 Demo: https://chatx-heroku.herokuapp.com/
 
